@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>1</tab>
+    <tab>3</tab>
     <showhelp>1</showhelp>
     <path>D:\easy_arabic_keyboard\easy_arabic_keyboard.kpj</path>
   </ViewState>
@@ -45,6 +45,10 @@
     <FileState>
       <ID>id_0043af2bcbd277503d67476222913c40</ID>
       <FullPath>D:\easy_arabic_keyboard\source\easy_arabic_keyboard.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_bc4f0fe9520fbb826dd3bfed0cf0cc00</ID>
@@ -70,10 +74,24 @@
       <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
       <FullPath>D:\easy_arabic_keyboard\source\..\LICENSE.md</FullPath>
     </FileState>
+    <FileState>
+      <ID>id_5a3eb9c351041132dbd92c2b02d3ef3c</ID>
+      <FullPath>D:\easy_arabic_keyboard\source\AmiriQuran-Regular.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9313ab1ff80f4d458d9b75d60ea740b0</ID>
+      <FullPath>D:\easy_arabic_keyboard\source\Amiri-Regular.ttf</FullPath>
+    </FileState>
   </FileStates>
   <MRU>
     <File>
       <ID>id_MRU0</ID>
+      <Filename>easy_arabic_keyboard.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>D:\easy_arabic_keyboard\source\easy_arabic_keyboard.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
       <Filename>easy_arabic_keyboard.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>D:\easy_arabic_keyboard\source\easy_arabic_keyboard.kmn</FullPath>
