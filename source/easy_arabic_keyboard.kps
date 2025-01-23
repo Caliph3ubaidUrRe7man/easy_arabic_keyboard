@@ -55,12 +55,6 @@
       <FileType>.md</FileType>
     </File>
     <File>
-      <Name>AmiriQuran-Regular.ttf</Name>
-      <Description>Font Amiri Quran Regular</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.ttf</FileType>
-    </File>
-    <File>
       <Name>Amiri-Regular.ttf</Name>
       <Description>Font Amiri Regular</Description>
       <CopyLocation>0</CopyLocation>
@@ -72,8 +66,8 @@
       <Name>Easy Arabic Keyboard</Name>
       <ID>easy_arabic_keyboard</ID>
       <Version>1.0</Version>
-      <OSKFont>AmiriQuran-Regular.ttf</OSKFont>
-      <DisplayFont>AmiriQuran-Regular.ttf</DisplayFont>
+      <OSKFont>Amiri-Regular.ttf</OSKFont>
+      <DisplayFont>Amiri-Regular.ttf</DisplayFont>
       <Languages>
         <Language ID="ar-Arab-001">Arabic (Arabic, World)</Language>
       </Languages>
