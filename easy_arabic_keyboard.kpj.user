@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>3</tab>
+    <tab>1</tab>
     <showhelp>1</showhelp>
     <path>D:\MEGA\easy_arabic_keyboard\easy_arabic_keyboard.kpj</path>
   </ViewState>
@@ -25,6 +25,10 @@
     <FileState>
       <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
       <FullPath>D:\MEGA\easy_arabic_keyboard\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8e4878c779e4b9ba1df443b2a4a5d861</ID>
+      <FullPath>D:\MEGA\easy_arabic_keyboard\source\Amiri-OFL.txt</FullPath>
     </FileState>
     <FileState>
       <ID>id_9313ab1ff80f4d458d9b75d60ea740b0</ID>
@@ -82,15 +86,15 @@
   <MRU>
     <File>
       <ID>id_MRU0</ID>
-      <Filename>easy_arabic_keyboard.kps</Filename>
-      <FileType>.kps</FileType>
-      <FullPath>D:\MEGA\easy_arabic_keyboard\source\easy_arabic_keyboard.kps</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU1</ID>
       <Filename>easy_arabic_keyboard.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>D:\MEGA\easy_arabic_keyboard\source\easy_arabic_keyboard.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>easy_arabic_keyboard.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>D:\MEGA\easy_arabic_keyboard\source\easy_arabic_keyboard.kps</FullPath>
     </File>
   </MRU>
 </KeymanDeveloperProjectUser>
