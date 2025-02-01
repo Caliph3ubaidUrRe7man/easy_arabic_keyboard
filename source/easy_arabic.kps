@@ -17,7 +17,7 @@
     <Items/>
   </StartMenu>
   <Info>
-    <Name URL="">Easy Arabic Keyboard</Name>
+    <Name URL="">Easy Arabic</Name>
     <Copyright URL="">Copyright © 3ubaidUrRe7man</Copyright>
     <Author URL="mailto:3ubaidUrRe7man@murena.io">3ubaidUrRe7man</Author>
     <Description URL="">Changes some keys to make it easier to type.</Description>
@@ -25,13 +25,13 @@
   </Info>
   <Files>
     <File>
-      <Name>..\build\easy_arabic_keyboard.kmx</Name>
+      <Name>..\build\easy_arabic.kmx</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kmx</FileType>
     </File>
     <File>
-      <Name>..\build\easy_arabic_keyboard.kvk</Name>
+      <Name>..\build\easy_arabic.kvk</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kvk</FileType>
@@ -63,8 +63,8 @@
   </Files>
   <Keyboards>
     <Keyboard>
-      <Name>Easy Arabic Keyboard</Name>
-      <ID>easy_arabic_keyboard</ID>
+      <Name>Easy Arabic</Name>
+      <ID>easy_arabic</ID>
       <Version>1.0</Version>
       <OSKFont>Amiri-Regular.ttf</OSKFont>
       <DisplayFont>Amiri-Regular.ttf</DisplayFont>
