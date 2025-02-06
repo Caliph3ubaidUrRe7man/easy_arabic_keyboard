@@ -69,7 +69,7 @@
       <OSKFont>Amiri-Regular.ttf</OSKFont>
       <DisplayFont>Amiri-Regular.ttf</DisplayFont>
       <Languages>
-        <Language ID="ar-Arab-001">Arabic (Arabic, World)</Language>
+        <Language ID="ar-Arab">Arabic (Arabic)</Language>
       </Languages>
     </Keyboard>
   </Keyboards>
